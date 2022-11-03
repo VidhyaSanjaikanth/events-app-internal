@@ -1,6 +1,6 @@
 'use strict';
 
-// express is a nodejs web server
+// express is a nodejs web server test comments
 // https://www.npmjs.com/package/express
 const express = require('express');
 
@@ -9,6 +9,8 @@ const express = require('express');
 const bodyParser = require('body-parser');
 
 // bring in repository
+// just a comment
+
 const db = require('./repository');
 
 // create the server
